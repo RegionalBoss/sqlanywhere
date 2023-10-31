@@ -32,7 +32,7 @@ For example:
 package main
 
 import (
-    _ "github.com/mdcnz/sqlanywhere"
+    _ "github.com/RegionalBoss/sqlanywhere"
     "database/sql"
     "log"
 )
